@@ -1,0 +1,7 @@
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\bin\Debug\Snake(Dog).exe.config
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\bin\Debug\Snake(Dog).exe
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\bin\Debug\Snake(Dog).pdb
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\obj\Debug\Snake(Dog).csprojAssemblyReference.cache
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\obj\Debug\Snake(Dog).csproj.CoreCompileInputs.cache
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\obj\Debug\Snake(Dog).exe
+C:\Users\Imertvec\source\repos\Snake(Dog)\Snake(Dog)\obj\Debug\Snake(Dog).pdb
